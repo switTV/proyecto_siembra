@@ -1,0 +1,776 @@
+{
+  "Verano": [
+    {
+      "id": 0,
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/ají.webp",
+      "nombre": "Ají",
+      "nombre_cientifico": "Capsicum annuum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": " 21°C y 29°C",
+      "descripcion": "El ají es una planta que produce frutos picantes o dulces, dependiendo de la variedad. Sus frutos son típicamente de forma alargada y vienen en diversos colores, como rojo, verde, amarillo o naranja. Los ajíes son conocidos por su sabor característico y picante, que varía en intensidad según la variedad. Se utilizan ampliamente en la cocina para dar sabor y calor a una variedad de platos, desde salsas hasta platos principales. También son una fuente de vitamina C y antioxidantes.",
+      "promedio_dias_germinado": "6 a 10"
+    },
+    {
+      "id": 1,
+      "nombre": "Acelga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/acelga.webp",
+      "nombre_cientifico": "Beta vulgaris subsp. cicla",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C y 25°C",
+      "descripcion": "La acelga es una planta de hojas verdes y tallos blancos o coloridos que pertenece a la familia de las Amarantáceas. Sus hojas son comestibles y tienen un sabor suave y terroso. Es una verdura de crecimiento rápido y se cultiva por sus hojas, que se pueden cosechar a medida que crecen, y se utilizan en ensaladas, sopas y guisos. Las acelgas son ricas en nutrientes como vitaminas A y K, así como en minerales como hierro y calcio. Es una planta versátil y fácil de cultivar en huertos caseros.",
+      "promedio_dias_germinado": "7 a 9"
+    },
+    {
+      "id": 2,
+      "nombre": "Albahaca",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/albahaca.webp",
+      "nombre_cientifico": "Ocimum basilicum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": " 18°C y 24°C",
+      "descripcion": "La albahaca es una hierba aromática conocida por sus hojas verde brillante, fragantes y de forma ovalada. Sus hojas tienen un sabor y aroma distintivos, a menudo descritos como frescos y ligeramente picantes, con notas de clavo y menta. Esta planta es ampliamente utilizada en la cocina para dar sabor a una variedad de platos, desde ensaladas hasta salsas y platos de pasta. Además de su uso culinario, la albahaca también se cultiva por su agradable fragancia y sus propiedades medicinales. Es una planta popular en jardines y macetas debido a su fácil cuidado y versatilidad en la cocina.",
+      "promedio_dias_germinado": "7 a 9"
+    },
+    {
+      "id": 3,
+      "nombre": "Apio",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/apio.webp",
+      "nombre_cientifico": "Apium graveolens",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "15°C a 21°C",
+      "descripcion": "El apio es una verdura de tallos crujientes y se utiliza en ensaladas, sopas y como bocadillo. Tiene un sabor suave y un ligero toque de amargura.",
+      "promedio_dias_germinado": "10 a 21"
+    },
+    {
+      "id": 4,
+      "nombre": "Berenjena",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/berenjena.webp",
+      "nombre_cientifico": "Solanum melongena",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C y 24°C",
+      "descripcion": "La berenjena es una planta de la familia Solanaceae que produce frutos de forma ovalada y piel brillante de color morado oscuro en su forma más común, aunque existen variedades de diferentes colores. Sus frutos son comestibles y se utilizan en una variedad de platos culinarios, desde lasañas hasta parmesanas de berenjena. La berenjena es conocida por su sabor suave y textura tierna cuando se cocina adecuadamente.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 5,
+      "nombre": "Calabaza",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/calabaza.webp",
+      "nombre_cientifico": "Cucurbita pepo",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "La calabaza es una planta de la familia Cucurbitaceae que produce frutos de gran tamaño con una piel dura y comestible. Estos frutos, que pueden variar en tamaño y color, son utilizados en la cocina para hacer una variedad de platos, desde sopas y guisos hasta postres. La calabaza es conocida por su sabor dulce y su versatilidad culinaria, y es una fuente de fibra y nutrientes esenciales como la vitamina A.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 6,
+      "nombre": "Chaucha",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/chaucha.webp",
+      "nombre_cientifico": "Phaseolus vulgaris",
+      "horas_de_sol": "5 a 7 horas",
+      "temperatura_suelo": "15°C a 25°C",
+      "descripcion": "La chaucha, también conocida como vainita, es una legumbre que se cultiva por sus vainas comestibles. Es una fuente de fibra y proteínas. Se utiliza en ensaladas, guisos y como guarnición en diversos platos.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 7,
+      "nombre": "Choclo",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/choclo.webp",
+      "nombre_cientifico": "Zea mays",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El choclo, o maíz, es un cereal que se cultiva por sus granos tiernos y dulces. Se puede consumir hervido, asado, o en diversas preparaciones culinarias. Es un alimento básico en muchas cocinas alrededor del mundo.",
+      "promedio_dias_germinado": "7 a 10"
+    },    
+    {
+      "id": 8,
+      "nombre": "Espinaca",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/espinaca.webp",
+      "nombre_cientifico": "Spinacia oleracea",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La espinaca es una verdura de hojas verdes que es conocida por su alto contenido de hierro y otros nutrientes. Se utiliza en ensaladas, sopas, salteados y otros platos saludables.",
+      "promedio_dias_germinado": "5 a 10"
+    },    
+    {
+      "id": 9,
+      "nombre": "Judía verde",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/judia_verde.webp",
+      "nombre_cientifico": "Phaseolus vulgaris",
+      "horas_de_sol": "5 a 7 horas",
+      "temperatura_suelo": "15°C a 25°C",
+      "descripcion": "Las judías verdes, también llamadas ejotes o habichuelas, son vainas comestibles que son una excelente fuente de fibra y vitaminas. Se pueden cocinar de diversas maneras, como al vapor, salteadas o en guisos.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 10,
+      "nombre": "Lechuga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/lechuga.webp",
+      "nombre_cientifico": "Lactuca sativa",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La lechuga es una verdura de hojas verdes ampliamente utilizada en ensaladas y como base para sándwiches. Hay varios tipos de lechuga, desde la iceberg crujiente hasta la lechuga romana de hojas largas.",
+      "promedio_dias_germinado":"5 a 10"
+    },
+    {
+      "id": 11,
+      "nombre": "Melón",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/melon.webp",
+      "nombre_cientifico": "Cucumis melo",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El melón es una fruta dulce y refrescante que se consume principalmente en verano. Viene en diferentes variedades, como el melón cantalupo y el melón verde. Se puede comer fresco o usar en ensaladas de frutas.",
+      "promedio_dias_germinado": "4 a 10"
+    },
+    {
+      "id": 12,
+      "nombre": "Pepino",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/pepino.webp",
+      "nombre_cientifico": "Cucumis sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El pepino es una verdura crujiente y refrescante que se utiliza en ensaladas, sándwiches y como ingrediente en platos frescos. También se utiliza para hacer pepinillos en vinagre.",
+      "promedio_dias_germinado": "6 a 8"
+    },    
+    {
+      "id": 13,
+      "nombre": "Pimiento",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/pimiento.webp",
+      "nombre_cientifico": "Capsicum annuum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "Los pimientos, también conocidos como ajíes o chiles, son verduras de sabor variado, desde dulce hasta picante. Se utilizan en una amplia gama de platos, desde asados hasta salsas.",
+      "promedio_dias_germinado": "7 a 14"
+    },    
+    {
+      "id": 14,
+      "nombre": "Perejil",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/perejil.webp",
+      "nombre_cientifico": "Petroselinum crispum",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El perejil es una hierba aromática ampliamente utilizada como condimento y decoración en platos culinarios. Viene en dos variedades principales: el perejil de hojas planas y el perejil rizado.",
+      "promedio_dias_germinado": "14 a 21"
+    },    
+    {
+      "id": 15,
+      "nombre": "Rabanito",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rabano.webp",
+      "nombre_cientifico": "Raphanus sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "Los rábanos son verduras pequeñas y crujientes que se pueden comer crudas en ensaladas o como bocadillos. Tienen un sabor ligeramente picante y son fáciles de cultivar.",
+      "promedio_dias_germinado": "3 a 7"
+    },    
+    {
+      "id": 16,
+      "nombre": "Remolacha",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/remolacha.webp",
+      "nombre_cientifico": "Beta vulgaris",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La remolacha es una raíz vegetal de color rojo intenso. Se puede cocinar de varias maneras, desde hervirla hasta asarla, y se utiliza en ensaladas, sopas y platos principales.",
+      "promedio_dias_germinado": "10 a 14"
+    },    
+    {
+      "id": 17,
+      "nombre": "Rúcula",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rucula.webp",
+      "nombre_cientifico": "Eruca sativa",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La rúcula es una verdura de hojas verdes con un sabor picante y a nuez. Se utiliza comúnmente en ensaladas y como adorno para dar sabor a los platos.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 18,
+      "nombre": "Sandía",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/sandia.webp",
+      "nombre_cientifico": "Citrullus lanatus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "La sandía es una fruta jugosa y refrescante que es perfecta para el verano. Se consume fresca y es una excelente fuente de hidratación.",
+      "promedio_dias_germinado": "5 a 10"
+    },    
+    {
+      "id": 19,
+      "nombre": "Tomate",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/tomate.webp",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "El tomate es una fruta que se utiliza como verdura en muchas preparaciones culinarias. Viene en diversas variedades y se utiliza en salsas, ensaladas, sándwiches y mucho más.",
+      "promedio_dias_germinado": "5 a 10"
+    },    
+    {
+      "id": 20,
+      "nombre": "Zanahoria",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/zanahoria.webp",
+      "nombre_cientifico": "Daucus carota subsp. sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La zanahoria es una raíz vegetal de color naranja brillante. Es versátil y se puede consumir cruda, cocida o en jugos. Es conocida por su alto contenido de vitamina A.",
+      "promedio_dias_germinado": "10 a 21"
+    },
+    {
+      "id": 21,
+      "nombre": "Zapallito",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/zapallitos.webp",
+      "nombre_cientifico": "Cucurbita pepo",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "Los zapallitos, también llamados calabacines, son verduras de forma alargada y piel verde. Se utilizan en una variedad de platos, como salteados, rellenos y como acompañamiento en platos principales.",
+      "promedio_dias_germinado":"5 a 10"
+    }    
+  ],
+
+
+  "Primavera": [
+    {
+      "id": 0,
+      "nombre": "Acelga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/acelga.webp",
+      "nombre_cientifico": "Beta vulgaris subsp. cicla",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C y 25°C",
+      "descripcion": "La acelga es una planta de hojas verdes y tallos blancos o coloridos que pertenece a la familia de las Amarantáceas. Sus hojas son comestibles y tienen un sabor suave y terroso. Es una verdura de crecimiento rápido y se cultiva por sus hojas, que se pueden cosechar a medida que crecen, y se utilizan en ensaladas, sopas y guisos. Las acelgas son ricas en nutrientes como vitaminas A y K, así como en minerales como hierro y calcio. Es una planta versátil y fácil de cultivar en huertos caseros.",
+      "promedio_dias_germinado": "7 a 9"
+    },
+    {
+      "id": 2,
+      "nombre": "Albahaca",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/albahaca.webp",
+      "nombre_cientifico": "Ocimum basilicum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": " 18°C y 24°C",
+      "descripcion": "La albahaca es una hierba aromática conocida por sus hojas verde brillante, fragantes y de forma ovalada. Sus hojas tienen un sabor y aroma distintivos, a menudo descritos como frescos y ligeramente picantes, con notas de clavo y menta. Esta planta es ampliamente utilizada en la cocina para dar sabor a una variedad de platos, desde ensaladas hasta salsas y platos de pasta. Además de su uso culinario, la albahaca también se cultiva por su agradable fragancia y sus propiedades medicinales. Es una planta popular en jardines y macetas debido a su fácil cuidado y versatilidad en la cocina.",
+      "promedio_dias_germinado": "7 a 9"
+    },
+    {
+      "id": 2,
+      "nombre": "Arveja",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/arveja.png",
+      "nombre_cientifico": "Pisum sativum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La arveja, también conocida como guisante, es una legumbre verde que se consume principalmente por sus pequeños guisantes dentro de las vainas. Es una fuente de proteínas y se utiliza en una variedad de platos, desde sopas hasta guarniciones.",
+      "promedio_dias_germinado": "7 a 14"
+      
+    },  
+    {
+      "id": 3,
+      "nombre": "Berenjena",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/berenjena.webp",
+      "nombre_cientifico": "Solanum melongena",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "La berenjena es una planta de la familia Solanaceae que produce frutos de forma ovalada y piel brillante de color morado oscuro en su forma más común, aunque existen variedades de diferentes colores. Sus frutos son comestibles y se utilizan en una variedad de platos culinarios, desde lasañas hasta parmesanas de berenjena. La berenjena es conocida por su sabor suave y textura tierna cuando se cocina adecuadamente.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 4,
+      "nombre": "Brócoli",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/brocoli.webp",
+      "nombre_cientifico": "Brassica oleracea var. italica",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El brócoli es una verdura verde que se consume por sus floretes comestibles. Es rico en vitaminas y minerales y se utiliza en ensaladas, sopas y platos principales.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 5,
+      "nombre": "Cebolla",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/cebolla.webp",
+      "nombre_cientifico": "Allium cepa",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La cebolla es una hortaliza que se utiliza para dar sabor a una variedad de platos culinarios. Puede ser consumida cruda en ensaladas o cocida en guisos, salsas y más.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 6,
+      "nombre": "Calabaza",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/calabaza.webp",
+      "nombre_cientifico": "Cucurbita pepo",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "La calabaza es una planta de la familia Cucurbitaceae que produce frutos de gran tamaño con una piel dura y comestible. Estos frutos, que pueden variar en tamaño y color, son utilizados en la cocina para hacer una variedad de platos, desde sopas y guisos hasta postres. La calabaza es conocida por su sabor dulce y su versatilidad culinaria, y es una fuente de fibra y nutrientes esenciales como la vitamina A.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 7,
+      "nombre": "Choclo",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/choclo.webp",
+      "nombre_cientifico": "Zea mays",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El choclo, o maíz, es un cereal que se cultiva por sus granos tiernos y dulces. Se puede consumir hervido, asado, o en diversas preparaciones culinarias. Es un alimento básico en muchas cocinas alrededor del mundo.",
+      "promedio_dias_germinado": "7 a 10"
+    },
+    {
+      "id": 8,
+      "nombre": "Coliflor",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/coliflor.webp",
+      "nombre_cientifico": "Brassica oleracea var. botrytis",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La coliflor es una verdura de color blanco que se consume por sus flores comestibles. Es versátil y se utiliza en platos como purés, asados y gratinados.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 9,
+      "nombre": "Espinaca",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/espinaca.webp",
+      "nombre_cientifico": "Spinacia oleracea",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La espinaca es una verdura de hojas verdes que es conocida por su alto contenido de hierro y otros nutrientes. Se utiliza en ensaladas, sopas, salteados y otros platos saludables.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 10,
+      "nombre": "Lechuga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/lechuga.webp",
+      "nombre_cientifico": "Lactuca sativa",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La lechuga es una verdura de hojas verdes ampliamente utilizada en ensaladas y como base para sándwiches. Hay varios tipos de lechuga, desde la iceberg crujiente hasta la lechuga romana de hojas largas.",
+      "promedio_dias_germinado":"5 a 10"
+    },
+    {
+      "id": 11,
+      "nombre": "Melón",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/melon.webp",
+      "nombre_cientifico": "Cucumis melo",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El melón es una fruta dulce y refrescante que se consume principalmente en verano. Viene en diferentes variedades, como el melón cantalupo y el melón verde. Se puede comer fresco o usar en ensaladas de frutas.",
+      "promedio_dias_germinado": "4 a 10"
+    },
+    {
+      "id": 12,
+      "nombre": "Patata",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/patata.webp",
+      "nombre_cientifico": "Solanum tuberosum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 21°C",
+      "descripcion": "Las patatas, también conocidas como papas, son tubérculos ampliamente consumidos en todo el mundo. Se pueden cocinar de diversas maneras, como hervidas, asadas, fritas o en puré.",
+      "promedio_dias_germinado": "No germina."
+    },
+    {
+      "id": 13,
+      "nombre": "Pepino",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/pepino.webp",
+      "nombre_cientifico": "Cucumis sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El pepino es una verdura crujiente y refrescante que se utiliza en ensaladas, sándwiches y como ingrediente en platos frescos. También se utiliza para hacer pepinillos en vinagre.",
+      "promedio_dias_germinado": "6 a 8"
+    },
+    {
+      "id": 14,
+      "nombre": "Pimiento",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/pimiento.webp",
+      "nombre_cientifico": "Capsicum annuum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "Los pimientos, también conocidos como ajíes o chiles, son verduras de sabor variado, desde dulce hasta picante. Se utilizan en una amplia gama de platos, desde asados hasta salsas.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 15,
+      "nombre": "Puerro",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/puerro.png",
+      "nombre_cientifico": "Allium ampeloprasum var. porrum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El puerro es una hortaliza que se utiliza principalmente en sopas y guisos. Tiene un sabor suave y es conocido por sus largos tallos verdes.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 16,
+      "nombre": "Rabanito",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rabano.webp",
+      "nombre_cientifico": "Raphanus sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "Los rábanos son verduras pequeñas y crujientes que se pueden comer crudas en ensaladas o como bocadillos. Tienen un sabor ligeramente picante y son fáciles de cultivar.",
+      "promedio_dias_germinado": "3 a 7"
+
+    },
+    {
+      "id": 17,
+      "nombre": "Remolacha",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/remolacha.webp",
+      "nombre_cientifico": "Beta vulgaris",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La remolacha es una raíz vegetal de color rojo intenso. Se puede cocinar de varias maneras, desde hervirla hasta asarla, y se utiliza en ensaladas, sopas y platos principales.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 18,
+      "nombre": "Repollo",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/repollo.webp",
+      "nombre_cientifico": "Brassica oleracea var. capitata",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El repollo es una verdura de hojas gruesas que se utiliza en ensaladas, sopas, chucrut y otros platos. Es una excelente fuente de vitamina C.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 19,
+      "nombre": "Tomate",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/tomate.webp",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "El tomate es una fruta que se utiliza como verdura en muchas preparaciones culinarias. Viene en diversas variedades y se utiliza en salsas, ensaladas, sándwiches y mucho más.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 20,
+      "nombre": "Zanahoria",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/zanahoria.webp",
+      "nombre_cientifico": "Daucus carota subsp. sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La zanahoria es una raíz vegetal de color naranja brillante. Es versátil y se puede consumir cruda, cocida o en jugos. Es conocida por su alto contenido de vitamina A.",
+      "promedio_dias_germinado": "10 a 21"
+    }
+  ],
+  "Invierno": [
+    {
+      "id": 0,
+      "nombre": "Acelga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/acelga.webp",
+      "nombre_cientifico": "Beta vulgaris subsp. cicla",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C y 25°C",
+      "descripcion": "La acelga es una planta de hojas verdes y tallos blancos o coloridos que pertenece a la familia de las Amarantáceas. Sus hojas son comestibles y tienen un sabor suave y terroso. Es una verdura de crecimiento rápido y se cultiva por sus hojas, que se pueden cosechar a medida que crecen, y se utilizan en ensaladas, sopas y guisos. Las acelgas son ricas en nutrientes como vitaminas A y K, así como en minerales como hierro y calcio. Es una planta versátil y fácil de cultivar en huertos caseros.",
+      "promedio_dias_germinado": "7 a 9"
+    },
+    {
+      "id": 1,
+      "nombre": "Alcachofa",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/alcachofa.webp",
+      "nombre_cientifico": "Cynara scolymus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La alcachofa es una verdura con flores comestibles. Se cocina hervida o al vapor y se come quitando las hojas y raspando la carne tierna con los dientes.",
+      "promedio_dias_germinado": "No germina."
+    },
+    {
+      "id": 2,
+      "nombre": "Arveja",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/arveja.png",
+      "nombre_cientifico": "Pisum sativum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La arveja, también conocida como guisante, es una legumbre verde que se consume principalmente por sus pequeños guisantes dentro de las vainas. Es una fuente de proteínas y se utiliza en una variedad de platos, desde sopas hasta guarniciones.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 3,
+      "nombre": "Batata",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/batata.webp",
+      "nombre_cientifico": "Ipomoea batatas",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "24°C a 29°C",
+      "descripcion": "La batata, también conocida como boniato, es una raíz dulce y almidonada que se puede cocinar de diversas maneras, desde asada hasta en puré. Es rica en vitamina A y fibra.",
+      "promedio_dias_germinado": "No germina."
+    },
+    {
+      "id": 4,
+      "nombre": "Cebollín",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/cebollin.webp",
+      "nombre_cientifico": "Allium schoenoprasum",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El cebollín es una hierba aromática que se utiliza para dar sabor a una variedad de platos. Tiene un sabor similar al de la cebolla y se usa en ensaladas y platos asiáticos.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 5,
+      "nombre": "Chaucha",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/chaucha.webp",
+      "nombre_cientifico": "Phaseolus vulgaris",
+      "horas_de_sol": "5 a 7 horas",
+      "temperatura_suelo": "15°C a 25°C",
+      "descripcion": "La chaucha, también conocida como judía verde o ejote, es una legumbre que se consume cocida. Es una fuente de fibra y proteínas y se utiliza en guisos y ensaladas.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 6,
+      "nombre": "Coliflor",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/coliflor.webp",
+      "nombre_cientifico": "Brassica oleracea var. botrytis",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La coliflor es una verdura de color blanco que se consume por sus flores comestibles. Es versátil y se utiliza en platos como purés, asados y gratinados.",
+      "promedio_dias_germinado": "5 a 10"
+
+    },
+    {
+      "id": 7,
+      "nombre": "Espinaca",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/espinaca.webp",
+      "nombre_cientifico": "Spinacia oleracea",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La espinaca es una verdura de hojas verdes que es conocida por su alto contenido de hierro y otros nutrientes. Se utiliza en ensaladas, sopas, salteados y otros platos saludables.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 8,
+      "nombre": "Hinojo",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/Hinojo.webp",
+      "nombre_cientifico": "Foeniculum vulgare",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "El hinojo es una verdura de sabor anisado y tallos bulbosos. Se utiliza en ensaladas y platos de pescado. También se aprecian sus semillas para sazonar.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 9,
+      "nombre": "Patata",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/patata.webp",
+      "nombre_cientifico": "Solanum tuberosum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 21°C",
+      "descripcion": "Las patatas, también conocidas como papas, son tubérculos ampliamente consumidos en todo el mundo. Se pueden cocinar de diversas maneras, como hervidas, asadas, fritas o en puré.",
+      "promedio_dias_germinado": "No germina."
+    },
+    {
+      "id": 10,
+      "nombre": "Puerro",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/puerro.png",
+      "nombre_cientifico": "Allium ampeloprasum var. porrum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El puerro es una hortaliza que se utiliza principalmente en sopas y guisos. Tiene un sabor suave y es conocido por sus largos tallos verdes.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 11,
+      "nombre": "Rabanito",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rabano.webp",
+      "nombre_cientifico": "Raphanus sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "Los rábanos son verduras pequeñas y crujientes que se pueden comer crudas en ensaladas o como bocadillos. Tienen un sabor ligeramente picante y son fáciles de cultivar.",
+      "promedio_dias_germinado": "3 a 7"
+    },
+    {
+      "id": 12,
+      "nombre": "Remolacha",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/remolacha.webp",
+      "nombre_cientifico": "Beta vulgaris",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La remolacha es una raíz vegetal de color rojo intenso. Se puede cocinar de varias maneras, desde hervirla hasta asarla, y se utiliza en ensaladas, sopas y platos principales.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 13,
+      "nombre": "Rúcula",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rucula.webp",
+      "nombre_cientifico": "Eruca sativa",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La rúcula es una verdura de hojas verdes con un sabor picante y a nuez. Se utiliza comúnmente en ensaladas y como adorno para dar sabor a los platos.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 14,
+      "nombre": "Tomate",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/tomate.webp",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "El tomate es una fruta que se utiliza como verdura en muchas preparaciones culinarias. Viene en diversas variedades y se utiliza en salsas, ensaladas, sándwiches y mucho más.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 15,
+      "nombre": "Zanahoria",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/zanahoria.webp",
+      "nombre_cientifico": "Daucus carota subsp. sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La zanahoria es una raíz vegetal de color naranja brillante. Es versátil y se puede consumir cruda, cocida o en jugos. Es conocida por su alto contenido de vitamina A.",
+      "promedio_dias_germinado": "10 a 21"
+    }
+  ],
+  "Otoño": [
+    {
+      "id": 0,
+      "nombre": "Acelga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/acelga.webp",
+      "nombre_cientifico": "Beta vulgaris subsp. vulgaris",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 25°C",
+      "descripcion": "La acelga es una planta de hojas verdes y tallos blancos o coloridos que pertenece a la familia de las Amarantáceas. Sus hojas son comestibles y tienen un sabor suave y terroso. Es una verdura de crecimiento rápido y se cultiva por sus hojas, que se pueden cosechar a medida que crecen, y se utilizan en ensaladas, sopas y guisos. Las acelgas son ricas en nutrientes como vitaminas A y K, así como en minerales como hierro y calcio. Es una planta versátil y fácil de cultivar en huertos caseros.",
+      "promedio_dias_germinado": "7 a 9"
+    },
+    {
+      "id": 1,
+      "nombre": "Alcachofa",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/alcachofa.webp",
+      "nombre_cientifico": "Cynara cardunculus var. scolymus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "La alcachofa es una verdura con flores comestibles. Se cocina hervida o al vapor y se come quitando las hojas y raspando la carne tierna con los dientes.",
+      "promedio_dias_germinado": "No germina."
+    },
+    {
+      "id": 2,
+      "nombre": "Apio",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/apio.webp",
+      "nombre_cientifico": "Apium graveolens",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "15°C a 21°C",
+      "descripcion": "El apio es una verdura de tallos crujientes y se utiliza en ensaladas, sopas y como bocadillo. Tiene un sabor suave y un ligero toque de amargura.",
+      "promedio_dias_germinado": "10 a 21"
+    },
+    {
+      "id": 3,
+      "nombre": "Remolacha",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/remolacha.webp",
+      "nombre_cientifico": "Beta vulgaris",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La remolacha es una raíz vegetal de color rojo intenso. Se puede cocinar de varias maneras, desde hervirla hasta asarla, y se utiliza en ensaladas, sopas y platos principales.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 4,
+      "nombre": "Brocoli",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/brocoli.webp",
+      "nombre_cientifico": "Brassica oleracea",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "18°C a 24°C",
+      "descripcion": "El brócoli es una verdura crucífera que se cultiva por sus cabezas verdes comestibles. Es rico en nutrientes y se cocina de diversas maneras, como hervido o al vapor.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 5,
+      "nombre": "Cebolla",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/cebolla.webp",
+      "nombre_cientifico": "Allium cepa",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "13°C a 24°C",
+      "descripcion": "La cebolla es una hortaliza que se utiliza para dar sabor a una variedad de platos culinarios. Puede ser consumida cruda en ensaladas o cocida en guisos, salsas y más.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 6,
+      "nombre": "Coliflor",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/coliflor.webp",
+      "nombre_cientifico": "Brassica oleracea var. botrytis",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La coliflor es una verdura de color blanco que se consume por sus flores comestibles. Es versátil y se utiliza en platos como purés, asados y gratinados.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 7,
+      "nombre": "Espinaca",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/espinaca.webp",
+      "nombre_cientifico": "Spinacia oleracea",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La espinaca es una verdura de hojas verdes que es conocida por su alto contenido de hierro y otros nutrientes. Se utiliza en ensaladas, sopas, salteados y otros platos saludables.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 8,
+      "nombre": "Haba",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/haba.webp",
+      "nombre_cientifico": "Vicia faba",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "Las habas son legumbres que se cultivan por sus semillas. Se pueden cocinar de diversas maneras y son una buena fuente de proteínas y fibra.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 9,
+      "nombre": "Hinojo",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/Hinojo.webp",
+      "nombre_cientifico": "Foeniculum vulgare",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "El hinojo es una verdura de sabor anisado y tallos bulbosos. Se utiliza en ensaladas y platos de pescado. También se aprecian sus semillas para sazonar.",
+      "promedio_dias_germinado": "7 a 14"
+    },
+    {
+      "id": 10,
+      "nombre": "Kale",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/kale.webp",
+      "nombre_cientifico": "Brassica oleracea var. sabellica",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El kale es una verdura de hojas rizadas que es rica en nutrientes. Se utiliza en ensaladas, batidos y se puede cocinar al vapor o salteado.",
+      "promedio_dias_germinado": "5 a 7"
+    },
+    {
+      "id": 11,
+      "nombre": "Lechuga",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/lechuga.webp",
+      "nombre_cientifico": "Lactuca sativa",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La lechuga es una hoja verde utilizada en ensaladas y sándwiches. Viene en varias variedades, desde la lechuga iceberg hasta la lechuga romana.",
+      "promedio_dias_germinado":"5 a 10"
+      
+    },
+    {
+      "id": 12,
+      "nombre": "Puerro",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/puerro.png",
+      "nombre_cientifico": "Allium ampeloprasum var. porrum",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "13°C a 24°C",
+      "descripcion": "El puerro es una hortaliza que se utiliza principalmente en sopas y guisos. Tiene un sabor suave y es conocido por sus largos tallos verdes.",
+      "promedio_dias_germinado": "10 a 14"
+    },
+    {
+      "id": 13,
+      "nombre": "Rabanito",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rabano.webp",
+      "nombre_cientifico": "Raphanus sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "Los rábanos son verduras pequeñas y crujientes que se pueden comer crudas en ensaladas o como bocadillos. Tienen un sabor ligeramente picante y son fáciles de cultivar.",
+      "promedio_dias_germinado": "3 a 7"
+    },
+    {
+      "id": 14,
+      "nombre": "Repollo",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/repollo.webp",
+      "nombre_cientifico": "Brassica oleracea var. capitata",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "El repollo es una verdura de hojas gruesas que se utiliza en ensaladas, sopas, chucrut y otros platos. Es una excelente fuente de vitamina C.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 15,
+      "nombre": "Rúcula",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/rucula.webp",
+      "nombre_cientifico": "Eruca sativa",
+      "horas_de_sol": "4 a 6 horas",
+      "temperatura_suelo": "10°C a 24°C",
+      "descripcion": "La rúcula es una verdura de hojas verdes con un sabor picante y a nuez. Se utiliza comúnmente en ensaladas y como adorno para dar sabor a los platos.",
+      "promedio_dias_germinado": "5 a 10"
+    },
+    {
+      "id": 16,
+      "nombre": "Zanahoria",
+      "imagen": "https://raw.githubusercontent.com/switTV/verduras_imgs/main/verduras/zanahoria.webp",
+      "nombre_cientifico": "Daucus carota subsp. sativus",
+      "horas_de_sol": "6 a 8 horas",
+      "temperatura_suelo": "15°C a 24°C",
+      "descripcion": "La zanahoria es una raíz vegetal de color naranja brillante. Es versátil y se puede consumir cruda, cocida o en jugos. Es conocida por su alto contenido de vitamina A.",
+      "promedio_dias_germinado": "10 a 21"
+    }
+  ]
+}
