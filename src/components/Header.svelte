@@ -41,7 +41,7 @@
         <p>Calendario de</p>
         <h2>{$webStation}</h2>
     </div>
-    <div class="Header_img" style="background-image: url('src/assets/{$webStation}.jpg');">
+    <div class="Header_img" style="background-image: url('https://raw.githubusercontent.com/switTV/verduras_imgs/main/assets/{$webStation}.jpg');">
         
     </div>
 </div>
